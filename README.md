@@ -1,2 +1,2 @@
 # Sonix
-an operating system fro audio processing
+an operating system for low-latency audio processing
